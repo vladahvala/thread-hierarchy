@@ -4,7 +4,7 @@ A mini-project that demonstrates **the work of threads and thread groups** in Ja
 
 ## Overview
 
- **This project shows how to: **
+ **This project shows how to:**
 
 - Create and run multiple threads in Java.
 
@@ -28,13 +28,3 @@ The project contains:
 
 - Simple Task Execution: Threads simulate work by sleeping for a few seconds.
 
-## Thread Hierarchy Example (in my project)
-
-Group1
- ├─ Thread-1
- ├─ Thread-2
- ├─ SubGroupA
- │    ├─ Thread-3
- │    └─ Thread-4
- └─ SubGroupB
-      └─ Thread-5
