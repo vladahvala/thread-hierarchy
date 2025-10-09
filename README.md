@@ -21,13 +21,9 @@ The project contains:
 ## Features
 
 - Thread Groups: Organize threads into parent and child groups.
-- 
 - Monitor Thread: Continuously prints the status of threads in a group until they finish.
-- 
 - Recursive Hierarchy Printing: Recursively prints all threads and subgroups.
-- 
 - Simple Task Execution: Threads simulate work by sleeping for a few seconds.
-  
 - Follows **Java Code Conventions**.
 - Built using **Gradle**.
 
